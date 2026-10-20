@@ -1,0 +1,1 @@
+__pycache__/\n*.py[cod]\n.venv/\nvenv/\n.env\n.streamlit/secrets.toml\njob_tracker.db\n.DS_Store\n
